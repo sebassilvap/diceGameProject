@@ -1,0 +1,60 @@
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.header {
+  padding-bottom: 5%;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+.btn-user {
+  font-size: 2rem;
+  color: #eff587;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 50px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #4ECCA3;
+}
+
+h2 {
+  margin: 40px;
+  font-family: 'Poppins', sans-serif;
+  text-shadow: 2px 0 #232931;
+  font-size: 2rem;
+  color: #EEEEEE;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-size: 1.5rem;
+  font-family: 'Indie Flower', cursive;
+
+}
